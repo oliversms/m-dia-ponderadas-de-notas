@@ -22,7 +22,7 @@ programa
      inteiro peso3=5
 
  //ja tenho os valores das tres notas
-     media = (nota1*peso1)+(nota2*peso2)+(nota3*peso3)/10
+     media = ((nota1*peso1)+(nota2*peso2)+(nota3*peso3))/10
      escreva("Média aritmetica : ",mat.arredondar(media,2))
      
 	
